@@ -6,6 +6,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prrahil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - 🔭 I’m currently working on [Ai Interviewer](https://github.com/PrRahil/Ai_Interviewer.git)
 
 - 🌱 I’m currently learning **AI & .Net**
@@ -18,8 +20,7 @@
 
 - ⚡ Fun fact **I like persistency**
 
-
-## 🌐 Socials:
+## 🌐 Socials(Connect):
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aURyjV7AXk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prrahil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prajapatirahil13) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lional_Messy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26630279) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajapatirahil2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatirahil13@gmail.com) 
 
 # 💻 Tech Stack:
